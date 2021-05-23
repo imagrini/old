@@ -1,0 +1,22 @@
+{
+  "name": "iago_ezops",
+  "version": "1.0.0",
+  "description": "IagoEzops",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "mongodb": "^3.6.8",
+    "mongoose": "^5.12.10",
+    "nodemon": "^2.0.7",
+    "server.js": "^1.0.0",
+    "socket.io": "^4.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
